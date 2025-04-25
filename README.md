@@ -1,4 +1,5 @@
-[![Run in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/weld_quality_extended_logistic.ipynb)
+[![Run in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dkmech044/industry4.0-manufacturing-ml/blob/main/weld_quality_extended_logistic.ipynb)
+
 
 # Weld Quality Prediction Using Machine Learning (Extended)
 
